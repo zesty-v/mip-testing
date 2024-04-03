@@ -34,6 +34,29 @@
             RadiusTopRight: =8
             ZIndex: =1
 
+            TextInput1 As text:
+                BorderColor: =RGBA(245, 245, 245, 1)
+                BorderThickness: =2
+                Color: =RGBA(50, 49, 48, 1)
+                Default: ="Text input"
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                DisabledColor: =RGBA(161, 159, 157, 1)
+                DisabledFill: =RGBA(242, 242, 241, 0)
+                FocusedBorderThickness: =4
+                Font: =Font.'Segoe UI'
+                HoverBorderColor: =RGBA(16, 110, 190, 1)
+                HoverColor: =RGBA(50, 49, 48, 1)
+                HoverFill: =RGBA(255, 255, 255, 1)
+                PressedBorderColor: =RGBA(0, 120, 212, 1)
+                PressedColor: =RGBA(50, 49, 48, 1)
+                PressedFill: =RGBA(255, 255, 255, 1)
+                RadiusBottomLeft: =0
+                RadiusBottomRight: =0
+                RadiusTopLeft: =0
+                RadiusTopRight: =0
+                Size: =13
+                ZIndex: =1
+
         MainContainer1 As groupContainer.verticalAutoLayoutContainer:
             DropShadow: =DropShadow.Light
             Fill: =RGBA(255, 255, 255, 1)
